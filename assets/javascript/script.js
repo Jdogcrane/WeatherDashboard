@@ -65,7 +65,6 @@ button.addEventListener('click', function () {
         </ul>
            `;
         });
-
 // Grabs the current day weather
     fetch(requestUrl)
         .then(function (response) {

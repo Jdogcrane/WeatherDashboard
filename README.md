@@ -28,4 +28,4 @@ This project was centered around a weather dashboard. The user can input a city 
 >Notes: I struggled to do this one under the small time frame I had. After my class ended I spent all the time I had working on this. I think I did alright considering the time frame I had. Wish I had more time, think I would of gotten all the features in...
 
 ## Site Preview
-![alt link= this is the place for the site preview](./assets/images/preview.gif)
+![alt link= this is the place for the site preview](./assets/images/previewed.gif)
