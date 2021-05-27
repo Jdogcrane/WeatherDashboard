@@ -4,6 +4,7 @@
   box-sizing: border-box;
   flex-wrap: wrap;
   color: rgb(70, 28, 0);
+  align-self: center;
 }
 
 body {
@@ -20,9 +21,11 @@ body {
   margin: 20px;
   padding: 10px;
   text-align: center;
-  background-color: rgba(5, 5, 5, 0.068);
+  background-color: rgba(5, 5, 5, 0.384);
+  color: aliceblue;
   border-radius: 20px;
   float: left;
+  box-shadow: 20px 10px 20px;
 }
 
 .today {
@@ -42,13 +45,15 @@ body {
   margin: 20px;
   float: left;
   text-align: center;
-  background-color: rgba(5, 5, 5, 0.11);
+  background-color: rgba(5, 5, 5, 0.384);
   border-radius: 20px;
   box-sizing: border-box;
   flex-wrap: wrap;
   width: auto;
   columns: 5;
-  color: black;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  box-shadow: 20px 10px 20px;
 }
 
 .container h1 {
@@ -90,9 +95,13 @@ body {
 
 ul {
   list-style-type: none;
+  color: aliceblue;
 }
 
-.data .city {}
+li {
+color: aliceblue;
+
+}
 
 .data .temp {
   font-weight: bold;
@@ -107,5 +116,8 @@ input {
 }
 
 h1 {
+  text-align: center;
   color: black;
 }
+
+
